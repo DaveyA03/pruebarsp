@@ -8,9 +8,12 @@
 
 :root {
   font-family: "Poppins", sans-serif;
-  color-scheme: lightgreen;
+  
 }
 
+body {
+  background-color: rgba(31, 211, 31, 0.482);
+}
 
 .titles {
   font-family:unset;
